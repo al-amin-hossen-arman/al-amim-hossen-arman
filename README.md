@@ -28,7 +28,7 @@ Skills:  Java / PYTHON/ BOOTSTRAP / REACT / JS / HTML / CSS
 
 <p align="center">
 <a href="https://fb.com/AX Arman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="tutul181" height="30" width="40" /></a>
-<a href="#" target="blank"><img align="center" src="" alt="tutul181" height="30" width="40" /></a>
+
 <a href="https://linkedin.com/in/al-amin-hossen-arman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="al-amin-hossen-arman" height="30" width="40" /></a>
 <a href="https://codepen.io/al-amin-hossen-arman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="al-amin-hossen-arman" height="30" width="40" /></a>
 <a href="https://www.youtube.com/channel/UCttZMJCI9L9PbfJkQw7o-0Q" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="Learn With Tutul" height="30" width="40" /></a>
