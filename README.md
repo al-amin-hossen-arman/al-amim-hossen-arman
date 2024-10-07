@@ -1,9 +1,9 @@
 # al-amim-hossen-arman
-![Iam al-amin-hossen-arman](https://github.com/al-amin-hossen-arman/al-amin-hossen-arman/blob/main/code.png
+![Iam al-am](https://github.com/al-amin-hossen-arman/al-amin-hossen-arman/blob/main/code.png
 
 <h1 align="center">Hi 👋, I'm AL-Amin Hossen Arman</h1>
 <h3 align="center">Programmer | Web Designer | Content Creator | Speed Learner</h3>
-<h4 align="center">Co-founder & Chief Operating Officer at Hablu Programmer</h4>
+
 
 <div align="center">
 
